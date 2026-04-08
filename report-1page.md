@@ -31,7 +31,6 @@
 
 ### 4. Kết luận ngắn
 (4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
-Mình viết hoàn chỉnh để bạn có thể **copy nộp luôn** 👇
 
 ---
 
