@@ -2,7 +2,6 @@
 ## CIA & Risk: Hệ thống lưu điểm
 
 **Họ và tên:** Hồ Khắc Sơn
-
 **MSSV:** 1871020503
 **Lớp/Nhóm:** 18-02
 
