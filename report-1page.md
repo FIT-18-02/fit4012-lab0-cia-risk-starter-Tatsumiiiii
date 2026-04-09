@@ -70,5 +70,4 @@
 ---
 
 # **4. Kết luận ngắn**
-
 Qua bài lab này, em hiểu rõ hơn về cách xác định các tài sản quan trọng trong một hệ thống thông tin và vai trò của bộ ba CIA trong an toàn thông tin. Em cũng học được cách phân tích một sự cố dựa trên threat, vulnerability và mitigation. Phần khó nhất là phân biệt chính xác giữa các yếu tố trong CIA khi sự cố có thể liên quan đến nhiều khía cạnh. Khi phân tích, cần xác định đúng mục tiêu chính bị ảnh hưởng và nguyên nhân gốc rễ của vấn đề để đưa ra giải pháp phù hợp.
