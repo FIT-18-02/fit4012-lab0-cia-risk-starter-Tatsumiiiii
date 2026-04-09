@@ -14,6 +14,6 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải:Chưa hiểu roc bài
+- Cách em xử lý:Lên mạng tra và dùng Ai trợ giúp
+- Điều em học được từ bài lab:Hiểu khái quát về an toàn bảo mật, về CIA và các biện phsps xử lý khi gặp vấn đề.
